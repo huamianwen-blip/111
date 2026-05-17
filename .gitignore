@@ -1,0 +1,35 @@
+*.o
+*.obj
+*.elf
+*.hex
+*.map
+*.lk
+*.lst
+*.sym
+*.rel
+*.asm
+*.dsk
+.DS_Store
+thumbs.db
+
+# Keil uVision
+*.build
+*.bak
+*.dep
+*.d
+*.uvopt
+*.uvproj
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup
+*~
+*.tmp
